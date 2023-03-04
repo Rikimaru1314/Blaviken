@@ -1,0 +1,42 @@
+body{
+    padding: 50px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(38,0,78,1) 51%, rgba(255,0,104,0.9360994397759104) 100%);
+}
+#container{
+    display: flex;
+    text-align: center;
+}
+
+#pf{
+    width: 500px;
+
+}
+#pp{
+    width: 500px;
+   
+}
+fieldset{
+    background-color:white;
+    border: 3px solid rgb(152, 174, 26);
+}
+
+
+button{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+#tombo{
+    width: 100px;
+    border-radius: 10px;
+}
+#reset{
+    width: 100px;
+    border-radius: 10px;
+}
+#buttonT{
+    width: 40px;
+    border-radius: 40px;
+}
